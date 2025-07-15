@@ -33,6 +33,7 @@
     "@types/node": "^22.15.21",
     "@types/nodemailer": "^6.4.17",
     "@types/uuid": "^10.0.0",
+    "@vercel/node": "^5.3.5",
     "eslint": "^9.27.0",
     "typescript": "^5.8.3"
   }
