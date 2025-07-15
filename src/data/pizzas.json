@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Margherita",
+    "discount": 0,
+    "imageUrl": "Margherita.avif",
+    "ingredients": ["Tomato sauce", "Mozzarella", "Basil"],
+    "unitPrice": 9
+  },
+  {
+    "name": "Pepperoni",
+    "discount": 15,
+    "imageUrl": "Pepperoni.avif",
+    "ingredients": ["Tomato sauce", "Mozzarella", "Pepperoni"],
+    "unitPrice": 29
+  },
+  {
+    "name": "Hawaiian",
+    "discount": 5,
+    "imageUrl": "Hawaiian.avif",
+    "ingredients": ["Tomato sauce", "Mozzarella", "Ham", "Pineapple"],
+    "unitPrice": 15.99
+  },
+  {
+    "name": "Vegetarian",
+    "discount": 0,
+    "imageUrl": "Vegetarian.avif",
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella",
+      "Bell peppers",
+      "Mushrooms",
+      "Olives",
+      "Onions"
+    ],
+    "unitPrice": 5.99
+  },
+  {
+    "name": "BBQ Chicken",
+    "discount": 20,
+    "imageUrl": "BBQ-Chicken.avif",
+    "ingredients": [
+      "BBQ sauce",
+      "Mozzarella",
+      "Chicken",
+      "Red onions",
+      "Cilantro"
+    ],
+    "unitPrice": 12.99
+  },
+  {
+    "name": "Four Cheese",
+    "discount": 10,
+    "imageUrl": "Four-Cheese.avif",
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella",
+      "Gorgonzola",
+      "Parmesan",
+      "Ricotta"
+    ],
+    "unitPrice": 11.99
+  },
+  {
+    "name": "Buffalo Chicken",
+    "discount": 10,
+    "imageUrl": "Buffalo-Chicken.avif",
+    "ingredients": [
+      "Buffalo sauce",
+      "Mozzarella",
+      "Chicken",
+      "Red onions",
+      "Blue cheese"
+    ],
+    "unitPrice": 35
+  },
+  {
+    "name": "Pesto Veggie",
+    "discount": 10,
+    "imageUrl": "Pesto-Veggie.avif",
+    "ingredients": [
+      "Pesto sauce",
+      "Mozzarella",
+      "Cherry tomatoes",
+      "Spinach",
+      "Artichokes"
+    ],
+    "unitPrice": 39.99
+  }
+]
