@@ -341,7 +341,7 @@ export default class AuthController {
           You requested a password reset. Click the link below to continue:
         </div>
         <a href="http://localhost:3000/recover/${recoverId}" class="recovery-link">
-          http://localhost:3000/recover/${recoverId}
+          Click to recover
         </a>
         <div class="footer">
           If you didn’t request this, just ignore this email.
