@@ -10,6 +10,9 @@
     "watch": "tsc && tsc -w",
     "build": "tsc"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "author": "Amin Ebadi",
   "license": "ISC",
   "dependencies": {
