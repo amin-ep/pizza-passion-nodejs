@@ -6,9 +6,10 @@
   "type": "module",
   "scripts": {
     "dev": "tsc && nodemon dist/server.js",
-    "start": "tsc && NODE_ENV=production nodemon dist/server.js",
-    "watch": "tsc && tsc -w",
-    "build": "tsc"
+    "start": "tsc && NODE_ENV=production node dist/server.js",
+    "watch": "tsc -w",
+    "compile": "tsc",
+    "build": "npm ci && tsc"
   },
   "engines": {
     "node": ">=18"
